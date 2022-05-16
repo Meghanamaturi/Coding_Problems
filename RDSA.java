@@ -1,7 +1,7 @@
 // RDSA : Remove Duplicates from Sorted Array
 // https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
-class Solution {
+public class RDSA{
     public int removeDuplicates(int[] nums) {
         int x = nums.length;
         int i,j,k,z=0,m=0;
